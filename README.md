@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuyentv96
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning rust, lua, vim
+- 🌱 I love with rust, golang, vim
 
 <!---
 tuyentv96/tuyentv96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
