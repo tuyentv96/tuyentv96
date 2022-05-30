@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tuyentv96
-- 👀 I’m interested in programing
+- 👀 I’m a Software Engineer
 - 🌱 I love rust, golang, vim
 
 <!---
