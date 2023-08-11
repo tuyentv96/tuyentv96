@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tuyentv96
 - 👀 I’m a Software Engineer
-- 🌱 I love rust, golang, vim
 
 <!---
 tuyentv96/tuyentv96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
